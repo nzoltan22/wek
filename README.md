@@ -1,5 +1,4 @@
-# wek
-Webdesigner Előkészítő Kihívás
+# WEK (Webdesigner Előkészítő Kihívás)
 
 Izgalmas kihívás elé nézünk közösen: Te + Én + pár ezer társad.
 
