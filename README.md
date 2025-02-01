@@ -25,8 +25,6 @@ A kihívás végén, miután sok-sok hasznos tudással gazdagodtál, **esélyed 
 
 De ez még nem minden! **A nyeremény lehetőségén kívül a kihívás résztvevőjeként garantált ajándékot is kapsz, de erről majd később beszélek részletesen.**
 
-De ne szaladjunk előre, van pár teendő, amit érdemes a csatlakozással együtt megtenned:
-
 Elég hosszú a jelentkezési időszakunk a Webdesigner Előkészítő Kihívásunkra, így baráti emlékeztető gyanánt hoztam a menetrendet:
 
 
